@@ -1,0 +1,11 @@
+class simpleintrest
+{
+	public static void main(String args[])
+	{
+		int p=1000;
+		int r=5;
+		int t=2;
+		double simple=(p*r*t)/100
+		System.out.println("simple intrest is" +simple);
+	}
+}
