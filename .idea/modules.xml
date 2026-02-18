@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/04-Arrays/04-Arrays.iml" filepath="$PROJECT_DIR$/04-Arrays/04-Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Bridgelabz-Training-1Y.iml" filepath="$PROJECT_DIR$/Bridgelabz-Training-1Y.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Bridgelabz-Training-1Y/Bridgelabz-Training-1Y2.iml" filepath="$PROJECT_DIR$/Bridgelabz-Training-1Y/Bridgelabz-Training-1Y2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/programming_construct/programming_construct.iml" filepath="$PROJECT_DIR$/programming_construct/programming_construct.iml" />
+    </modules>
+  </component>
+</project>
