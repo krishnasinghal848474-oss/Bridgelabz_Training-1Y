@@ -1,10 +1,7 @@
-import college.student.student;
-import college.faculty.Faculty;
+import com.university.department.cse.Course;
 public class Main {
     public static void main(String[] args) {
-        student s = new student();
-        s.displayStudent("Krishna", 33);
-        Faculty f = new Faculty();
-        f.displayFaculty("Tanmay Lohakare", "Java Programming");
+        Course course = new Course("Computer Science", 1000000.0, "4 Years");
+        course.displayCourseDetails();
     }
 }
